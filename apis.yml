@@ -39,6 +39,8 @@ common:
     url: https://smartbear.com/product/ready-api/free-trial/
   - type: Support
     url: https://support.smartbear.com/
+integrations:
+  - name: logo
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
