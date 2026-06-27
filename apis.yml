@@ -31,7 +31,7 @@ common:
     url: https://smartbear.com/product/ready-api/
   - type: Documentation
     url: https://support.smartbear.com/readyapi/docs/
-  - type: PlatformFeatures
+  - type: Features
     url: https://smartbear.com/product/ready-api/platform-features/
   - type: Resources
     url: https://smartbear.com/product/ready-api/resources/
