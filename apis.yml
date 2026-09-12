@@ -45,6 +45,8 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Website
+    url: https://www.smartbear.com/
   - type: TrustCenter
     url: security/readyapi-trust-center.yml
   - type: DomainSecurity
