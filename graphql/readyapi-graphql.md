@@ -1,1 +1,0 @@
-# ReadyAPI GraphQL API
